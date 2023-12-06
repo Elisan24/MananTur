@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="359dp"
+        android:layout_height="417dp"
+        android:orientation="vertical"
+        android:padding="15dp"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="193dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Nombre"
+            android:textColor="#000" />
+
+        <EditText
+            android:id="@+id/editTextText8"
+            android:layout_width="296dp"
+            android:layout_height="48dp"
+            android:layout_below="@id/textView15"
+            android:layout_gravity="center"
+            android:background="@color/gris"
+            android:ems="10"
+            android:inputType="text"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="209dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editTextText8"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Apellido Paterno"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/editTextText9"
+            android:layout_width="296dp"
+            android:layout_height="48dp"
+            android:layout_below="@id/textView16"
+            android:layout_gravity="center"
+            android:background="@color/gris"
+            android:ems="10"
+            android:inputType="text"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="209dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editTextText9"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Apellido Materno"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/editTextText10"
+            android:layout_width="296dp"
+            android:layout_height="48dp"
+            android:layout_below="@id/textView17"
+            android:layout_gravity="center"
+            android:background="@color/gris"
+            android:ems="10"
+            android:inputType="text"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="209dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editTextText10"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Correo"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/editTextText11"
+            android:layout_width="296dp"
+            android:layout_height="48dp"
+            android:layout_below="@id/textView18"
+            android:layout_gravity="center"
+            android:background="@color/gris"
+            android:ems="10"
+            android:inputType="text"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="209dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editTextText11"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Contraseña"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/editTextText12"
+            android:layout_width="293dp"
+            android:layout_height="55dp"
+            android:layout_below="@id/textView19"
+            android:layout_gravity="center"
+            android:background="@color/gris"
+            android:ems="10"
+            android:inputType="text"
+            android:text="" />
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

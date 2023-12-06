@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/house_solid"
+        android:title="Inicio"/>
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/user_solid"
+        android:title="Perfil"/>
+    <item
+        android:id="@+id/action_agregar"
+        android:icon="@drawable/plus_solid"
+        android:title="Agregar"/>
+    <item
+        android:id="@+id/action_close"
+        android:icon="@drawable/right_to_bracket_solid"
+        android:title="Cerra sesión"/>
+    <!-- Agrega más elementos según sea necesario -->
+
+</menu>

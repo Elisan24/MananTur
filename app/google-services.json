@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "983342141853",
+    "firebase_url": "https://manantur-a4747-default-rtdb.firebaseio.com",
+    "project_id": "manantur-a4747",
+    "storage_bucket": "manantur-a4747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983342141853:android:a7467ac871acd30b4b5f74",
+        "android_client_info": {
+          "package_name": "com.example.manantur2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Oefc1YfjunVz3a_pjcsQqcnK2tYsUmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
